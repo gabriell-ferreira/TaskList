@@ -7,6 +7,8 @@
 ## Description
  Gerenciador de tarefas desenvolvido para colocar em prática meus estudos com VueJs. Além do uso de conceitos de comunicação entre componentes, props, watchers e propriedades computadas utilizei o local storage do navegador para armazenar as tarefas, possibilitando que ao sair do navegador e entrar novamente, as tarefas permaneçam como foram deixadas antes de fechar o navegador.
 
+ Link: <a href='https://task-list-jet.vercel.app/'>https://task-list-jet.vercel.app/</a>
+
 ## Project setup
 ```
 yarn install
