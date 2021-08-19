@@ -1,4 +1,11 @@
-# todo_app
+# Task List
+
+## Snapshot
+<img src='https://ik.imagekit.io/xc7bzbnt53/snapshot-task-list_suZQ4Hy8fvk.png?updatedAt=1629398233247' style='width: 50rem'>
+
+
+## Description
+ Gerenciador de tarefas desenvolvido para colocar em prática meus estudos com VueJs. Além do uso de conceitos de comunicação entre componentes, props, watchers e propriedades computadas utilizei o local storage do navegador para armazenar as tarefas, possibilitando que ao sair do navegador e entrar novamente, as tarefas permaneçam como foram deixadas antes de fechar o navegador.
 
 ## Project setup
 ```
